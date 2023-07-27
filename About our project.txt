@@ -1,0 +1,1 @@
+this is a python Django project for buying and selling sports item through online .it also allowed to available sports turf nearby us. it also allow to take admission in sports academy. allowed posts about sports matches.it also allowed to book tickets in sports events
